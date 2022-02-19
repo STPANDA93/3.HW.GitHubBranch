@@ -1,0 +1,10 @@
+id : 1
+created by : Golikov Evgeniy 
+asigned to : Vadim Ksendzov
+status : new
+priority : medium
+type: bug
+found in : chrome
+summary : incorect project state in Project viewing mode
+expected result : the status is renewed
+actual result" : the status is not renewed
