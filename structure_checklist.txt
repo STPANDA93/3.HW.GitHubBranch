@@ -1,20 +1,2 @@
-                        Functional testing checklist
-
-Id                            Discription                                 Result
-
-1      The site is up and running.                                         Pass
-2      When you try to reopen the site, it opens and is available.         Pass
-3      All buttons on the site are clickable.                              Pass
-4      All links on the site open.                                         Pass
-5      There are no broken links on the site.                              Pass
-6      Check all forms on the site.                                        Pass
-7      Check the validation of all required fields.                        Fail
-8      All required fields have an asterisk.                               Fail
-9      Check validation for all optional fields.                           Fail   
-10     Check the main elements of the site.                                Pass
-11     Check the operation of the menu.                                    Pass
-12     Check that the downloaded documents open correctly.                 Fail
-13     Sending forms works correctly.                                      Pass
-14     Check what happens if you delete cookies while on the site.         Pass
-15     Check what happens if you delete cookies after visiting the site.   Pass
-16     All data in the lists in chronological order.                       Pass
+           Structure of CheckList
+|ID|Title|Steps to reproduce|Expected Result|Status|
